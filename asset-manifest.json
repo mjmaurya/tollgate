@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/tollgate/static/css/main.92bf7055.css",
-    "main.js": "/tollgate/static/js/main.1342acd2.js",
+    "main.js": "/tollgate/static/js/main.ca648e3a.js",
     "static/js/787.285d7e3a.chunk.js": "/tollgate/static/js/787.285d7e3a.chunk.js",
     "index.html": "/tollgate/index.html",
     "main.92bf7055.css.map": "/tollgate/static/css/main.92bf7055.css.map",
-    "main.1342acd2.js.map": "/tollgate/static/js/main.1342acd2.js.map",
+    "main.ca648e3a.js.map": "/tollgate/static/js/main.ca648e3a.js.map",
     "787.285d7e3a.chunk.js.map": "/tollgate/static/js/787.285d7e3a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.92bf7055.css",
-    "static/js/main.1342acd2.js"
+    "static/js/main.ca648e3a.js"
   ]
 }
